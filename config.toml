@@ -22,7 +22,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: You can choose between
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "Molokai"
+  scheme = "shell-ubuntu"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
