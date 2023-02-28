@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Additions stop here
     
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Mohamed Mater's Portfolio!"
+  description = "Omar Ashraf Nasr's Portfolio!"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -35,8 +35,8 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "Micro0x00"
-  pcName = "Space"
+  userName = "omar"
+  pcName = "root"
   workDir = "mydir"
   profile = "whoami.txt"
 
@@ -62,9 +62,11 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Mohamed Mater!
-  Pentester & Developer
-  Nice to meet you!
+  Hi I am Omar Ashraf
+  
+  CSED student iterested in cyber security
+  
+  Nice to meet you
   
   
   """
@@ -78,11 +80,11 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Blog", "https://www.example.com/"],
-    ["Twitter", "https://www.twitter.com/Micro0x00"],
-    ["Github", "https://Github.com/Micro0x00"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["Linkedin", "https://www.linkedin.com/in/omar-ashraf-56515a259/"],
+    ["Github", "https://github.com/omarA4raf"],
+    ["CyberTalents", "https://cybertalents.com/account/profile/me"],
+    ["CV", "/post/some-activity.md"],
+    ["Blog", "/post/some-activity.md"],
   ]
 
 [module]
