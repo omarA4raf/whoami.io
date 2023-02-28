@@ -84,7 +84,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["Linkedin", "https://www.linkedin.com/in/omar-ashraf-56515a259/"],
     ["Github", "https://github.com/omarA4raf"],
     ["CyberTalents", "https://cybertalents.com/account/profile/me"],
-    ["CV", "/post/some-activity.md"],
+    ["CV", "https://drive.google.com/file/d/1iYfYKjj4LpBx_XBQ9aoEayohewO6KP6e/view?usp=sharing"],
     ["Blog", "/post/some-activity.md"],
   ]
 
