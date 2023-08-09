@@ -61,7 +61,9 @@ ignoreErrors = ["error-remote-getjson"]
 
   # activityDelay = 5 : deprecated
 
-  description = """
+  description = 
+
+"""
   
   Hi I      am 
 
