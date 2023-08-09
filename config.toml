@@ -61,24 +61,14 @@ ignoreErrors = ["error-remote-getjson"]
 
   # activityDelay = 5 : deprecated
 
-  description = 
-
-"""
+  description = """
   
-  Hi I      am 
+  Hi I am Omar Ashraf
 
- ██████  ███    ███  █████  ██████       █████  ███████ ██   ██ ██████   █████  ███████ 
-██    ██ ████  ████ ██   ██ ██   ██     ██   ██ ██      ██   ██ ██   ██ ██   ██ ██      
-██    ██ ██ ████ ██ ███████ ██████      ███████ ███████ ███████ ██████  ███████ █████   
-██    ██ ██  ██  ██ ██   ██ ██   ██     ██   ██      ██ ██   ██ ██   ██ ██   ██ ██      
- ██████  ██      ██ ██   ██ ██   ██     ██   ██ ███████ ██   ██ ██   ██ ██   ██ ██      
-                                                                                        
-                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+  CSED student iterested in cyber security
 
-  CSE student passionate about reverse engineering, 
-  malware analysis, and threat intelligence.
+  Nice to meet you
 
-  Nice to meet you :-)
   
   """
 
