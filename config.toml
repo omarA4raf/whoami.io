@@ -63,11 +63,27 @@ ignoreErrors = ["error-remote-getjson"]
 
   description = """
   
-  Hi I am Omar Ashraf
+Hi I am 
+
+ ▒█████   ███▄ ▄███▓ ▄▄▄       ██▀███      ▄▄▄        ██████  ██░ ██  ██▀███   ▄▄▄        █████▒    ███▄    █  ▄▄▄        ██████  ██▀███  
+▒██▒  ██▒▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒   ▒████▄    ▒██    ▒ ▓██░ ██▒▓██ ▒ ██▒▒████▄    ▓██   ▒     ██ ▀█   █ ▒████▄    ▒██    ▒ ▓██ ▒ ██▒
+▒██░  ██▒▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒   ▒██  ▀█▄  ░ ▓██▄   ▒██▀▀██░▓██ ░▄█ ▒▒██  ▀█▄  ▒████ ░    ▓██  ▀█ ██▒▒██  ▀█▄  ░ ▓██▄   ▓██ ░▄█ ▒
+▒██   ██░▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄     ░██▄▄▄▄██   ▒   ██▒░▓█ ░██ ▒██▀▀█▄  ░██▄▄▄▄██ ░▓█▒  ░    ▓██▒  ▐▌██▒░██▄▄▄▄██   ▒   ██▒▒██▀▀█▄  
+░ ████▓▒░▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒    ▓█   ▓██▒▒██████▒▒░▓█▒░██▓░██▓ ▒██▒ ▓█   ▓██▒░▒█░       ▒██░   ▓██░ ▓█   ▓██▒▒██████▒▒░██▓ ▒██▒
+░ ▒░▒░▒░ ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░    ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░       ░ ▒░   ▒ ▒  ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░░ ▒▓ ░▒▓░
+  ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░     ▒   ▒▒ ░░ ░▒  ░ ░ ▒ ░▒░ ░  ░▒ ░ ▒░  ▒   ▒▒ ░ ░         ░ ░░   ░ ▒░  ▒   ▒▒ ░░ ░▒  ░ ░  ░▒ ░ ▒░
+░ ░ ░ ▒  ░      ░     ░   ▒     ░░   ░      ░   ▒   ░  ░  ░   ░  ░░ ░  ░░   ░   ░   ▒    ░ ░          ░   ░ ░   ░   ▒   ░  ░  ░    ░░   ░ 
+    ░ ░         ░         ░  ░   ░              ░  ░      ░   ░  ░  ░   ░           ░  ░                    ░       ░  ░      ░     ░     
+                                                                                                                                          
+
   
-  CSED student iterested in cyber security
+CSED student passionate about reverse engineering, 
+malware analysis, and threat intelligence. Skilled at 
+meticulous analysis to identify vulnerabilities and proactively 
+combat sophisticated hacking threats. 
+Seeking to apply expertise to strengthen cybersecurity.
   
-  Nice to meet you
+Nice to meet you
   
   
   """
