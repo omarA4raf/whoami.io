@@ -85,7 +85,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["Github", "https://github.com/omarA4raf"],
     ["Tryhackme", "https://tryhackme.com/p/OmarNasr"],
     ["CV", "https://drive.google.com/file/d/1YrY5dIUXI5fYjhjs-CMjFAyycg5Q7f1a/view?usp=sharing"],
-    ["Blog", "/post/some-activity.md"],
+    ["Blog", "post/some-activity.md"],
   ]
 
 [module]
