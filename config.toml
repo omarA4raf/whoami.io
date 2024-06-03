@@ -83,8 +83,8 @@ ignoreErrors = ["error-remote-getjson"]
   files = [ 
     ["Linkedin", "https://www.linkedin.com/in/omar-ashraf-56515a259/"],
     ["Github", "https://github.com/omarA4raf"],
-    ["Tryhackme", "https://tryhackme.com/p/omarAshraf"],
-    ["CV", "https://drive.google.com/file/d/1kGzbIo1oFNR9MbW6m2dfq9aM8PElvO0Z/view?usp=sharing"],
+    ["Tryhackme", "https://tryhackme.com/p/OmarNasr"],
+    ["CV", "https://drive.google.com/file/d/1YrY5dIUXI5fYjhjs-CMjFAyycg5Q7f1a/view?usp=sharing"],
     ["Blog", "/post/some-activity.md"],
   ]
 
